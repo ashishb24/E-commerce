@@ -26,4 +26,4 @@ MERN E-Commerce
 - Payments using Stripe - PaymentIntent based custom flow
 
 🔥 Note: 
-- This App is note in fully Working Condition
+- This App is not in fully Working Condition
