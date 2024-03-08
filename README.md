@@ -25,4 +25,5 @@ MERN E-Commerce
 - Email using Nodemailer - using GMail SMTP system
 - Payments using Stripe - PaymentIntent based custom flow
 
-
+🔥 Note: 
+- This App is note in fully Working Condition
